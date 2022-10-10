@@ -1,14 +1,15 @@
-### Hi there 👋, my name is Asparuh! *But you can feel free to call me Aspi.*
+# Hi there 👋, my name is Asparuh! 
+### *Please, feel free to call me Aspi.*
 #### **I am a Blockchain Developer with hands on experience of designing, developing and maintaining decentralized applications, specialising in Smart Contract Development.**
 
 
-- I've got a diverse background in Machine Learning, Cyber Security, Quality Assurance and Software Development.
+- I've got a diverse background in **Machine Learning**, **Cyber Security**, **Quality Assurance** and **Software Development**.
 
 - I have always been keen on crypto and decentralisation.
 
 I am currently:
 
-- With 2 years+ experience in Software Development and 1+ years experience in Blockchain Development!
+- With **2 years+** experience in **Software Developmen**t and **1+ years** experience in **Blockchain Development**!
 
 - Always actively working and expanding my knowledge! 
 
@@ -18,7 +19,9 @@ My contributions and work towards big NFT projects did not go unnoticed,
 since then my Twitter got followed by: **Gary Vee**, NFTLlama, Rubiks(GAC), Reddy Gives, ChampT, Voltura.eth and many more influential people in the NFT space.
 
 
-- 📫 How to reach me: asparuhdamyanov@gmail.com 
+## 📫 How to reach me:
+- Email: asparuhdamyanov@gmail.com 
+- LinkdIn: https://www.linkedin.com/in/asparuh-damyanov-047041241/
 
 <h3 align="center">Languages and Tools:</h3>
         <br>
