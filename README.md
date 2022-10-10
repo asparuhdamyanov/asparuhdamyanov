@@ -1,16 +1,24 @@
-### Hi there 👋, my name is Asparuh
-#### I am a Blockchain Developer
+### Hi there 👋, my name is Asparuh! *But you can feel free to call me Aspi.*
+#### **I am a Blockchain Developer with hands on experience of designing, developing and maintaining decentralized applications, specialising in Smart Contract Development.**
 
 
-I've got a diverse background in Machine Learning, Cyber Security, Quality Assurance and Development.
-<br>
-My transition to Web3 was natural, since I have always been keen on crypto and decentralisation.
-<br>
-The real turning point was April 2021, when I started with developing NFT projects. 
-<br>
-Since then I've build my brand on Twitter, while actively working and expanding my knowledge. 
-<br>
-Twitter is followed by: Gary Vee, NFTLlama, Rubiks(GAC), Reddy Gives, ChampT, Voltura.eth and many more influential people in the NFT space. 
+- I've got a diverse background in Machine Learning, Cyber Security, Quality Assurance and Software Development.
+
+- I have always been keen on crypto and decentralisation.
+
+I am currently:
+
+- With 2 years+ experience in Software Development and 1+ years experience in Blockchain Development!
+
+- Always actively working and expanding my knowledge! 
+
+While working on robust NFT projects I've managed to build my personal brand on Twitter. 
+
+My contributions and work towards big NFT projects did not go unnoticed,
+since then my Twitter got followed by: **Gary Vee**, NFTLlama, Rubiks(GAC), Reddy Gives, ChampT, Voltura.eth and many more influential people in the NFT space.
+
+
+- 📫 How to reach me: asparuhdamyanov@gmail.com 
 
 <h3 align="center">Languages and Tools:</h3>
         <br>
@@ -78,7 +86,6 @@ Twitter is followed by: Gary Vee, NFTLlama, Rubiks(GAC), Reddy Gives, ChampT, Vo
 </p>
 
 
-- 📫 How to reach me: asparuhdamyanov@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/asparuhdamyanov)  
