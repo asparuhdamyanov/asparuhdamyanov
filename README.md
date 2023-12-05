@@ -9,7 +9,7 @@
 
 I am currently:
 
-- With **2 years+** experience in **Software Developmen**t and **1+ years** experience in **Blockchain Development**!
+- With **4 years+** experience in **Software Developmen**t and **2+ years** experience in **Blockchain Development**!
 
 - Always actively working and expanding my knowledge! 
 
