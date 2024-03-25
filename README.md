@@ -1,27 +1,27 @@
 # Hi there 👋, my name is Asparuh! 
 ### *Please, feel free to call me Aspi.*
-#### **I am a Blockchain Developer with hands on experience of designing, developing and maintaining decentralized applications, specialising in Smart Contract Development.**
+#### I am a **Senior Blockchain Engineer** with hands on experience of developing Blockchain Based Products, specialising in secure & robust Smart Contract Development.
 
+- I have uploaded selected components of my projects to this platform in compliance with the Non-Disclosure Agreement (NDA) I am bound by. I have ensured that all shared materials do not reveal any confidential or proprietary information as stipulated in the NDA. (And have been discussed with representatives beforehand)
 
-- I've got a diverse background in **Machine Learning**, **Cyber Security**, **Quality Assurance** and **Software Development**.
+Background:
+- I've got a diverse background in **Blockchain Development**, **Machine Learning**, **Cyber Security**, **Quality Assurance** and **Software Development**.
 
-- I have always been keen on crypto and decentralisation.
+- With **4+ years+** experience in **Software Developmen**t and **3+ years** experience in **Blockchain Development**!
 
-I am currently:
+Projects:
+- I've done a fair bit of **Smart Contract Security Reviews(Audits)**.
 
-- With **4 years+** experience in **Software Developmen**t and **2+ years** experience in **Blockchain Development**!
+- I've worked on **15+ succsessful Blockchain projects!**
 
 - Always actively working and expanding my knowledge! 
 
-While working on robust NFT projects I've managed to build my personal brand on Twitter. 
-
-My contributions and work towards big NFT projects did not go unnoticed,
-since then my Twitter got followed by: **Gary Vee**, NFTLlama, Rubiks(GAC), Reddy Gives, ChampT, Voltura.eth and many more influential people in the NFT space.
+My contributions and work towards Blockchain Based products did not go unnoticed, since then my I've grown my personal brand and reputation.
 
 
-## 📫 How to reach me:
-- Email: asparuhdamyanov@gmail.com 
+## 📫 Feel free to contact me:
 - LinkdIn: https://www.linkedin.com/in/asparuh-damyanov-047041241/
+- X/Twitter: https://twitter.com/asparuhdamyanov
 
 <h3 align="center">Languages and Tools:</h3>
         <br>
